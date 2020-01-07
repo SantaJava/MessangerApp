@@ -1,3 +1,3 @@
 # MessangerApp
 
-Instant Chatting Web Application using JAVA
+Instant Chatting Web Application using JAVA and socket
